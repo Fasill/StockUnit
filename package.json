@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "cd frontend && bun run dev",
+    "dev:backend": "cd backend && mvn spring-boot:run"
+  }
+}
